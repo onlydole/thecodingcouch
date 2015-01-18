@@ -20,6 +20,3 @@ paginate:            5
 author:
   name:              Taylor Dolezal
   url:               https://twitter.com/onlydole
-
-# Custom vars
-version:             1.0.0
