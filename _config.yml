@@ -1,0 +1,12 @@
+# Site settings
+title: The Coding Couch
+description: > 
+  The Coding Couch is a collection of musings and coverage on 
+  everything new in code, gadgets, and life.
+baseurl: "/"
+url: "http://thecodingcouch.com"
+twitter_username: onlydole
+github_username:  onlydole
+
+# Build settings
+markdown: kramdown
